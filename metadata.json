@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SentinelAI - Industrial Safety Monitor",
+  "description": "An AI-powered safety auditor for construction, mining, and manufacturing sites. Upload guidelines and use vision intelligence to identify hazards and ensure compliance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
